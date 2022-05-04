@@ -2,11 +2,18 @@
 博士（工学）．専門はバイオインフォマティクス．
 経験と学歴は[LinkedIn](https://www.linkedin.com/in/shion-hosoda-b40340204/)参照．
 He has a Doctor of Engineering (Ph.D. in Engineering from Waseda University). His major is bioinformatics.
-His Experience and education are shown in [LinkedIn](https://www.linkedin.com/in/shion-hosoda-b40340204/).
+His experience and education are shown in [LinkedIn](https://www.linkedin.com/in/shion-hosoda-b40340204/).
+
+# リンク / Links
+- [GitHub](https://github.com/shion-h)
+- [LinkedIn](https://www.linkedin.com/in/shion-hosoda-b40340204/)
+- [ORCiD](https://orcid.org/0000-0001-5093-6833)
+
 # 研究成果 / Achievements
 ## 論文発表 / Papers
 ### プレプリント / Preprints
 - **Shion Hosoda**,  Yuichiro Nishimoto, Yohsuke Yamauchi, Takuji Yamada, Michiaki Hamada, "Identification of probiotic responders in cross-over trials using the Bayesian statistical model considering lags of effect period", 2022. [link](https://doi.org/10.1101/2022.03.14.22272054)
+
 ### 査読論文 / Peer-reviewed papers
 - **Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", Bioinformatics 37.Supplement_1 (2021):  i16-i24. [link](https://doi.org/10.1093/bioinformatics/btab287)
 
