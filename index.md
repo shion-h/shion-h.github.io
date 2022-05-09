@@ -9,6 +9,10 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - [LinkedIn](https://www.linkedin.com/in/shion-hosoda-b40340204/)
 - [ORCiD](https://orcid.org/0000-0001-5093-6833)
 
+# 資料 / Materials
+- [博士論文本審査 (Hosoda et al., 2020 & Hosoda et al., 2021)](https://www.dropbox.com/s/r6n0gv3bp6np27w/20211214.pptx?dl=0) (in Japanese)
+- [Hosoda et al., 2022](https://www.dropbox.com/s/8sfwc8qflao91cd/20220128.pptx?dl=0) (in Japanese)
+
 # 研究成果 / Achievements
 ## 論文発表 / Papers
 ### プレプリント / Preprints
@@ -36,47 +40,47 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 
 ### 国内学会(口頭) / Oral presentations in Japanese conferences
 
-〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "LDA によるヒト腸内細菌コミュニティの解明", 生命情報科学若手の会第 9 回研究会, 愛知県蒲郡市, 2017年10月.
+〇**Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
+
+〇**細田至温**, 福永津嵩, 浜田道昭, "環境の変動を考慮した確率モデルに基づく細菌間相互作用推定手法の開発", 第4回 Tokyo Bioinformatics Meeting, オンライン開催, 2020年10月.
+
+〇**Shion Hosoda**, Suguru Nishijima, Tsukasa Fukunaga, Masahira Hattori, Michiaki Hamada, "Revealing the microbial assemblage structure in the human gut microbiome using latent Dirichlet allocation", 第9回生命医薬情報学連合大会(IIBMP2020), オンライン開催, 2020年9月.
+
+〇**細田至温**, 浜田道昭, "口内及び腸内細菌メタゲノムの確率モデリング", 第123回MPS・第58回BIO合同研究発表会, 沖縄県国頭郡恩納村, 2019年6月.
 
 〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "階層ベイズモデルによるメタ16S菌種組成情報を用いたメタゲノム遺伝子プロファイル予測", 生命科学系フロンティアミーティング2018, 静岡県三島市, 2018年10月.
 
 〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "LDAによる腸内細菌遺伝子の共起関係の推定 ", 第2回 Tokyo Bioinformatics Meeting, 1-3, 神奈川県日吉市, 2018年8月.
 
-〇**細田至温**, 浜田道昭, "口内及び腸内細菌メタゲノムの確率モデリング", 第123回MPS・第58回BIO合同研究発表会, 沖縄県国頭郡恩納村, 2019年6月.
-
-〇**Shion Hosoda**, Suguru Nishijima, Tsukasa Fukunaga, Masahira Hattori, Michiaki Hamada, "Revealing the microbial assemblage structure in the human gut microbiome using latent Dirichlet allocation", 第9回生命医薬情報学連合大会(IIBMP2020), オンライン開催, 2020年9月.
-
-〇**細田至温**, 福永津嵩, 浜田道昭, "環境の変動を考慮した確率モデルに基づく細菌間相互作用推定手法の開発", 第4回 Tokyo Bioinformatics Meeting, オンライン開催, 2020年10月.
-
-〇**Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
+〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "LDA によるヒト腸内細菌コミュニティの解明", 生命情報科学若手の会第 9 回研究会, 愛知県蒲郡市, 2017年10月.
 
 ### 国内学会(ポスター) / Poster presentations in Japanese conferences
 
-〇**Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "16S rRNA-based metagenomic analysis using Latent Dirichlet Allocation", 第5回生命医薬情報学連合大会, 24, 東京都江東区, 2016年9月.
-
-〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "トピックモデルを用いたヒト腸内細菌メタゲノム解析", 第 11 回日本ゲノム微生物学会年会, 2P-44, 神奈川県藤沢市, 2017年3月.
-
-〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "トピックモデルを用いたヒト腸内細菌メタゲノム解析", NGS 現場の会第五回研究会, 6-9, 宮城県仙台市, 2017年5月.
-
-〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "トピックモデルを用いたヒト腸内細菌メタゲノム解析", 環境微生物系学会合同大会 2017, P-120, 宮城県仙台市, 2017年8月.
-
-〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "Latent Dirichlet Allocation を用いた腸内細菌叢のコミュニティ解析", 第 20 回情報論的学習理論ワークショップ, D1-44, 東京都文京区, 2017年10月.
-
-〇**Shion Hosoda**, Suguru Nishijima, Tsukasa Fukunaga, Masahira Hattori, Michiaki Hamada, "Clarification of human gut microbial community using Latent Dirichlet Allocation", 先進ゲノム支援 2018 年拡大班会議, 千葉県成田市, 2018年1月.
-
-〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "細菌群及び遺伝子群に基づいたヒト腸内細菌叢解析 ", 第7回生命医薬情報学連合大会 (IIBMP2018), P-91, 山形県鶴岡市, 2018年9月.
-
-〇**細田至温**, 浜田道昭, "MPPCAによるヒト腸内細菌叢の局所的低次元構造の推定", 生命情報科学若手の会第 11 回研究会, 山梨県富士吉田市, 2019年11月.
-
-〇横山源太朗, **細田至温**, 福永津嵩, 浜田道昭, "隠れマルコフモデルを用いたヒト腸内細菌叢の個人内エンテロタイプ遷移の推定", 生命情報科学若手の会 第12回研究会, オンライン開催, 2020年8月.
-
-〇**Shion Hosoda**, Michiaki Hamada, "細菌叢データにおける系統樹に基づいた回帰のためのベイジアンモデルの提案", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
-
-〇Kentaro Kawata, **Shion Hosoda**, Michiaki Hamada, Nobuyoshi Akimitsu, "ベイズ推定を用いた細胞内RNA分解速度の高精度な推定手法の開発", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
+〇横山 源太朗, 細田 至温, 福永 津嵩, 浜田 道昭, "隠れマルコフモデルを用いたヒト腸内細菌叢の個人内エンテロタイプ遷移の推定", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
 
 〇Risa Maemura, **Shion Hosoda**, Michiaki Hamada, "LDAを使用した微生物-代謝物相互作用の推定", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
 
-〇横山 源太朗, 細田 至温, 福永 津嵩, 浜田 道昭, "隠れマルコフモデルを用いたヒト腸内細菌叢の個人内エンテロタイプ遷移の推定", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
+〇Kentaro Kawata, **Shion Hosoda**, Michiaki Hamada, Nobuyoshi Akimitsu, "ベイズ推定を用いた細胞内RNA分解速度の高精度な推定手法の開発", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
+
+〇**Shion Hosoda**, Michiaki Hamada, "細菌叢データにおける系統樹に基づいた回帰のためのベイジアンモデルの提案", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
+
+〇横山源太朗, **細田至温**, 福永津嵩, 浜田道昭, "隠れマルコフモデルを用いたヒト腸内細菌叢の個人内エンテロタイプ遷移の推定", 生命情報科学若手の会 第12回研究会, オンライン開催, 2020年8月.
+
+〇**細田至温**, 浜田道昭, "MPPCAによるヒト腸内細菌叢の局所的低次元構造の推定", 生命情報科学若手の会第 11 回研究会, 山梨県富士吉田市, 2019年11月.
+
+〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "細菌群及び遺伝子群に基づいたヒト腸内細菌叢解析 ", 第7回生命医薬情報学連合大会 (IIBMP2018), P-91, 山形県鶴岡市, 2018年9月.
+
+〇**Shion Hosoda**, Suguru Nishijima, Tsukasa Fukunaga, Masahira Hattori, Michiaki Hamada, "Clarification of human gut microbial community using Latent Dirichlet Allocation", 先進ゲノム支援 2018 年拡大班会議, 千葉県成田市, 2018年1月.
+
+〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "Latent Dirichlet Allocation を用いた腸内細菌叢のコミュニティ解析", 第 20 回情報論的学習理論ワークショップ, D1-44, 東京都文京区, 2017年10月.
+
+〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "トピックモデルを用いたヒト腸内細菌メタゲノム解析", 環境微生物系学会合同大会 2017, P-120, 宮城県仙台市, 2017年8月.
+
+〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "トピックモデルを用いたヒト腸内細菌メタゲノム解析", NGS 現場の会第五回研究会, 6-9, 宮城県仙台市, 2017年5月.
+
+〇**細田至温**, 西嶋傑, 福永津嵩, 服部正平, 浜田道昭, "トピックモデルを用いたヒト腸内細菌メタゲノム解析", 第 11 回日本ゲノム微生物学会年会, 2P-44, 神奈川県藤沢市, 2017年3月.
+
+〇**Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "16S rRNA-based metagenomic analysis using Latent Dirichlet Allocation", 第5回生命医薬情報学連合大会, 24, 東京都江東区, 2016年9月.
 
 ## その他 / Others
 ### セミナー / Seminars
