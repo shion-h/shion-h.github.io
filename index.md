@@ -11,6 +11,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 
 # 資料 / Materials
 - [博士論文本審査 (Hosoda et al., 2020 & Hosoda et al., 2021)](https://www.dropbox.com/s/r6n0gv3bp6np27w/20211214.pptx?dl=0) (in Japanese)
+- [博士論文本審査 (Hosoda et al., 2020 & Hosoda et al., 2021)](https://shion-h.github.io/home/materials/20211214.pptx) (in Japanese)
 - [Hosoda et al., 2022](https://www.dropbox.com/s/8sfwc8qflao91cd/20220128.pptx?dl=0) (in Japanese)
 
 # 研究成果 / Achievements
