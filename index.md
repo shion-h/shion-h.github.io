@@ -8,6 +8,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - [GitHub](https://github.com/shion-h)
 - [LinkedIn](https://www.linkedin.com/in/shion-hosoda-b40340204/)
 - [ORCiD](https://orcid.org/0000-0001-5093-6833)
+- [ResearchGate](https://www.researchgate.net/profile/Shion-Hosoda)
 
 # 資料 / Materials
 - [博士論文本審査 (Hosoda et al., 2020 & Hosoda et al., 2021)](Materials/20211214.pptx) (in Japanese)
@@ -32,6 +33,8 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 
 ### 国際学会(ポスター) / Poster presentations in international conferences
 
+- 〇**Shion Hosoda**, Takashi Okada, Atsushi Mochizuki, Miwa Sato, "BayesianSSA: a Bayesian statistical model based on structural sensitivity analysis for chemical bioproduction", ISMB/ECCB 2023, Lyon, France, (July 2023)
+
 - 〇**Shion Hosoda**, Michiaki Hamada, "Estimation of microbe viability from human oral to gut", ISMB/ECCB 2019, V-116, Basel, Switzerland, (July 2019)
 
 - 〇**Shion Hosoda**, Michiaki Hamada, "A new model for predicting metagenomic functional profile from 16S rRNA gene amplicon sequencing data", The 17th Asia Pacific Bioinformatics Conference, 167, Wuhan, China, January 2019.
@@ -39,6 +42,8 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - 〇**Shion Hosoda**, Suguru Nishijima, Tsukasa Fukunaga, Masahira Hattori, Michiaki Hamada, "Clarification of human gut microbial community using Latent Dirichlet Allocation", The 16th Asia Pacific Bioinformatics Conference, A16, Yokohama, Japan, January 2018.
 
 ### 国内学会(口頭) / Oral presentations in Japanese conferences
+
+- 〇柳本香菜美, **細田至温**, 佐藤美和, 浜田道昭, "タンパク質言語モデルを利用した抗生物質耐性メカニズムの予測", 第143回MPS・第74回BIO合同研究発表会, 沖縄県国頭郡恩納村, 2023年7月.
 
 - 〇**Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
 
@@ -56,7 +61,13 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 
 ### 国内学会(ポスター) / Poster presentations in Japanese conferences
 
-- 〇横山 源太朗, 細田 至温, 福永 津嵩, 浜田 道昭, "隠れマルコフモデルを用いたヒト腸内細菌叢の個人内エンテロタイプ遷移の推定", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
+- 〇柳本 香菜美, **細田 至温**, 佐藤 美和, 浜田 道昭, "Prediction of antibiotic resistance genes using protein language models"，第12回生命医薬情報学連合大会（IIBMP2023）, 千葉県柏市, 2023年9月.
+
+- 〇Gentaro Yokoyama, **Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "隠れマルコフモデルを用いたヒト腸内細菌叢の状態遷移の復元性の推定", 第11回生命医薬情報学連合大会(IIBMP2022), 大阪府豊中市, 2022年9月
+
+- 〇Kanami Yagimoto, **Shion Hosoda**, Michiaki Hamada, 遠位配列の相互作用を考慮した抗生物質耐性メカニズム分類手法の提案, 第11回生命医薬情報学連合大会(IIBMP2022), 大阪府豊中市, 2022年9月
+
+- 〇横山 源太朗, **細田 至温**, 福永 津嵩, 浜田 道昭, "隠れマルコフモデルを用いたヒト腸内細菌叢の個人内エンテロタイプ遷移の推定", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
 
 - 〇Risa Maemura, **Shion Hosoda**, Michiaki Hamada, "LDAを使用した微生物-代謝物相互作用の推定", 第10回生命医薬情報学連合大会(IIBMP2021), オンライン開催, 2021年9月.
 
