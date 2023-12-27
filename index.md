@@ -15,11 +15,10 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - [Hosoda et al., 2022](Materials/20220128.pptx) (in Japanese)
 
 # 研究成果 / Achievements
-## 論文発表 / Papers
+## 論文発表(\*は責任著者を示す) / Papers (\* indicates a corresponding author)
 ### プレプリント / Preprints
 - 
-### 査読論文(\*は責任著者を示す) / Peer-reviewed papers (\* indicates a corresponding author.)
-
+### 査読論文 / Peer-reviewed papers 
 - **Shion Hosoda**\*,  Yuichiro Nishimoto, Yohsuke Yamauchi, Takuji Yamada, Michiaki Hamada\*, "Probiotic responder identification in cross-over trials for constipation using a Bayesian statistical model considering lags between intake and effect periods", Computational and Structural Biotechnology Journal 21 (2023): 5350-5357. [link](https://doi.org/10.1016/j.csbj.2023.10.047)
 
 - **Shion Hosoda**\*, Tsukasa Fukunaga, Michiaki Hamada\*, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", Bioinformatics 37.Supplement_1 (2021):  i16-i24. [link](https://doi.org/10.1093/bioinformatics/btab287)
@@ -28,7 +27,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 
 - **Shion Hosoda**, Suguru Nishijima, Tsukasa Fukunaga, Masahira Hattori, Michiaki Hamada\*, "Revealing the microbial assemblage structure in the human gut microbiome using latent Dirichlet allocation", Microbiome 8.1 (2020): 1-12. [link](https://doi.org/10.1186/s40168-020-00864-3)
 
-## 学会発表(〇は発表者を示す) / Conference presentations (〇 indicates a presenter.)
+## 学会発表(〇は発表者を示す) / Conference presentations (〇 indicates a presenter)
 ### 国際学会(口頭) / Oral presentations in international conferences
 
 - 〇**Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", ISMB/ECCB 2021, Virtual, July 2021.
