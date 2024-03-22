@@ -17,7 +17,8 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 # 研究成果 / Achievements
 ## 論文発表(\*は責任著者を示す) / Papers (\* indicates a corresponding author)
 ### プレプリント / Preprints
-- 
+- **Shion Hosoda**\*, Hisashi Iwata, Takuya Miura, Maiko Tanabe,  View ORCID ProfileTakashi Okada,  View ORCID ProfileAtsushi Mochizuki, Miwa Sato, "BayesianSSA: a Bayesian statistical model based on structural sensitivity analysis for predicting responses to enzyme perturbations in metabolic networks.", bioRxiv (2024): 2024-03. [link](https://doi.org/10.1101/2024.03.14.585120)
+
 ### 査読論文 / Peer-reviewed papers 
 - **Shion Hosoda**\*,  Yuichiro Nishimoto, Yohsuke Yamauchi, Takuji Yamada, Michiaki Hamada\*, "Probiotic responder identification in cross-over trials for constipation using a Bayesian statistical model considering lags between intake and effect periods", Computational and Structural Biotechnology Journal 21 (2023): 5350-5357. [link](https://doi.org/10.1016/j.csbj.2023.10.047)
 
