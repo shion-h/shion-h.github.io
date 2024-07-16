@@ -24,7 +24,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 
 - **Shion Hosoda**\*, Tsukasa Fukunaga, Michiaki Hamada\*, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", Bioinformatics 37.Supplement_1 (2021):  i16-i24. [link](https://doi.org/10.1093/bioinformatics/btab287)
 
-- Hitoshi Iuchi\*, Taro Matsutani, Keisuke Yamada, Natsuki Iwano, Shunsuke Sumi, **Shion Hosoda**, Shitao Zhao, Tsukasa Fukunaga, Michiaki Hamada\*, "Representation learning applications in biological sequence analysis", Computational and Structural Biotechnology Journal 19 (2021): 3198. [link](https://doi.org/10.1016/j.csbj.2021.05.039)
+- Hitoshi Iuchi\*, Taro Matsutani, Keisuke Yamada, Natsuki Iwano, Shunsuke Sumi, **Shion Hosoda**, Shitao Zhao, Tsukasa Fukunaga, Michiaki Hamada\*, "Representation learning applications in biological sequence analysis", Computational and Structural Biotechnology Journal 19 (2021): 3198-3208. [link](https://doi.org/10.1016/j.csbj.2021.05.039)
 
 - **Shion Hosoda**, Suguru Nishijima, Tsukasa Fukunaga, Masahira Hattori, Michiaki Hamada\*, "Revealing the microbial assemblage structure in the human gut microbiome using latent Dirichlet allocation", Microbiome 8.1 (2020): 1-12. [link](https://doi.org/10.1186/s40168-020-00864-3)
 
