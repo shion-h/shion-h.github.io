@@ -110,3 +110,4 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - Scientific Reports
 - Microbiome
 - BMC Bioinformatics
+- BMC Methods
