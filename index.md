@@ -13,6 +13,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 # 資料 / Materials
 - [博士論文本審査 (Hosoda et al., 2020 & Hosoda et al., 2021)](Materials/20211214.pptx) (in Japanese)
 - [Hosoda et al., 2022](Materials/20220128.pptx) (in Japanese)
+- [NGS EXPO 2024 招待講演資料](Materials/20240905.pdf) (in Japanese)
 
 # 研究成果 / Achievements
 ## 論文発表(\*は責任著者を示す) / Papers (\* indicates a corresponding author)
@@ -99,6 +100,10 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 ### セミナー / Seminars
 
 - **細田至温**, "階層ベイズモデルの紹介と腸内細菌叢データへの適用", 筑波大学 医学医療系 バイオインフォマティクス研究室（尾崎研究室） 第三回公開セミナー, 茨城県つくば市,  2019月8月.
+
+### 招待講演 / Invited talks
+
+- **細田至温**, "ベイズ統計モデルに基づく​微生物叢データ解析手法の開発", NGS EXPO 2024 招待講演 4： データ利活用の促進, 大阪府大阪市,  2024月9月.
 
 ### 受賞歴 / Prizes
 
