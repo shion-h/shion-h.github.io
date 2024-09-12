@@ -116,3 +116,4 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - Microbiome
 - BMC Bioinformatics
 - BMC Methods
+- ISME Communications
