@@ -39,7 +39,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - 〇**Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model", ISMB/ECCB 2021, Virtual, July 2021.
 
 ### 国際学会(ポスター) / Poster presentations in international conferences
-- **Shion Hosoda**\*, Hisashi Iwata, Takuya Miura, Maiko Tanabe, Takashi Okada, Atsushi Mochizuki, Miwa Sato, "BayesianSSA: a Bayesian statistical model based on structural sensitivity analysis for predicting responses to enzyme perturbations in metabolic networks.", 1st Asia & Pacific Bioinformatics Joint Conference, Naha, Japan, October 2024
+- 〇**Shion Hosoda**\*, Hisashi Iwata, Takuya Miura, Maiko Tanabe, Takashi Okada, Atsushi Mochizuki, Miwa Sato, "BayesianSSA: a Bayesian statistical model based on structural sensitivity analysis for predicting responses to enzyme perturbations in metabolic networks.", 1st Asia & Pacific Bioinformatics Joint Conference, Naha, Japan, October 2024
 
 - 〇**Shion Hosoda**, Takashi Okada, Atsushi Mochizuki, Miwa Sato, "BayesianSSA: a Bayesian statistical model based on structural sensitivity analysis for chemical bioproduction", ISMB/ECCB 2023, Lyon, France, July 2023
 
