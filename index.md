@@ -15,6 +15,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 - [博士論文本審査 (Hosoda et al., 2020 & Hosoda et al., 2021)](Materials/20211214.pptx) (in Japanese)
 - [Hosoda et al., 2022](Materials/20220128.pptx) (in Japanese)
 - [NGS EXPO 2024 招待講演資料](Materials/20240905.pdf) (in Japanese)
+- [福永研第１回講演会資料](Materials/20250617.pdf) (in Japanese)
 
 # 研究成果 / Achievements
 ## 論文発表(\*は責任著者を示す) / Papers (\* indicates a corresponding author)
