@@ -70,6 +70,8 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 
 ### 国内学会(ポスター) / Poster presentations in Japanese conferences
 
+- 〇**細田 至温**, 浜田 道昭, "Simulation-based inference for switching stochastic differential equation-based models applied to biological time-series data"，第13回生命医薬情報学連合大会（IIBMP2025）, 愛知県名古屋市, 2025年9月.
+
 - 〇柳本 香菜美, **細田 至温**, 佐藤 美和, 浜田 道昭, "Prediction of antibiotic resistance genes using protein language models"，第12回生命医薬情報学連合大会（IIBMP2023）, 千葉県柏市, 2023年9月.
 
 - 〇Gentaro Yokoyama, **Shion Hosoda**, Tsukasa Fukunaga, Michiaki Hamada, "隠れマルコフモデルを用いたヒト腸内細菌叢の状態遷移の復元性の推定", 第11回生命医薬情報学連合大会(IIBMP2022), 大阪府豊中市, 2022年9月
@@ -106,6 +108,7 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 ### セミナー / Seminars
 
 - **細田至温**, "階層ベイズモデルの紹介と腸内細菌叢データへの適用", 筑波大学 医学医療系 バイオインフォマティクス研究室（尾崎研究室） 第三回公開セミナー, 茨城県つくば市,  2019月8月.
+- **細田至温**, "ベイズ統計モデリングによるバイオインフォマティクス研究事例の紹介", 慶應義塾大学理工学部生命情報学科 バイオインフォマティクス研究室（福永研究室） 第１回講演会, 神奈川県横浜市,  2025月6月.
 
 ### 招待講演 / Invited talks
 
@@ -114,7 +117,6 @@ His experience and education are shown in [LinkedIn](https://www.linkedin.com/in
 ### 受賞歴 / Prizes
 
 - **細田至温**, 生命情報科学若手の会第 9 回研究会 若手奨励賞, 2017年 10月.
-
 - **Shion Hosoda**, 1st Asia & Pacific Bioinformatics Joint Conference Best Poster Presentation Award (5 / 462 posters), October 2024.
 
 # 学術コミュニティへの貢献 / Community involvement
